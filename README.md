@@ -12,10 +12,10 @@ A web-based tool for designing and simulating neurons with their electrical and 
 │         WEB BROWSER                     │
 │      (What users see and interact)      │
 │                                         │
-│  - Design neuron shapes                │
-│  - Configure properties                │
-│  - Run simulations                     │
-│  - View 3D animations                  │
+│  - Design neuron shapes                 │
+│  - Configure properties                 │
+│  - Run simulations                      │
+│  - View 3D animations                   │
 └──────────────┬──────────────────────────┘
                │
                │ Internet
@@ -24,9 +24,9 @@ A web-based tool for designing and simulating neurons with their electrical and 
 │         WEB SERVER                      │
 │      (Manages requests)                 │
 │                                         │
-│  - Receives user configurations        │
-│  - Handles file uploads                │
-│  - Sends back results                  │
+│  - Receives user configurations         │
+│  - Handles file uploads                 │
+│  - Sends back results                   │
 └──────────────┬──────────────────────────┘
                │
                │
@@ -35,9 +35,9 @@ A web-based tool for designing and simulating neurons with their electrical and 
 │    SIMULATION ENGINE (MOOSE)            │
 │      (Does the math)                    │
 │                                         │
-│  - Calculates electrical signals       │
-│  - Simulates chemical reactions        │
-│  - Generates 3D visualization data     │
+│  - Calculates electrical signals        │
+│  - Simulates chemical reactions         │
+│  - Generates 3D visualization data      │
 └─────────────────────────────────────────┘
 ```
 
